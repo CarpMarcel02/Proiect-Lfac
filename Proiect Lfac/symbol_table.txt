@@ -1,0 +1,5 @@
+variabila : _x de tip int care are valoarea= 0
+variabila : _y de tip float care are valoarea= 0.000000
+variabila : _a de tip int care are valoarea= 0
+variabila : _f de tip float care are valoarea= 0.000000
+variabila : _anal de tip int care are valoarea= 0
